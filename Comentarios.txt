@@ -1,0 +1,21 @@
+La app muestra de inicio los productos
+En el navegador el telefono tanto como el letrero procutos mandan a la pagina principal
+el icono del carro manda a el carro, si no hay productos el carro mana un letrero de carro vacio
+
+Cuando se pasa el curson por un producto, aparece una imagen de agregar a carro, si se presiona este
+aparece un card con los datos del producto y dos botones, ir a carro o seguir comprando
+
+Si se da clic en una imagen del producto este da acceso a la informacion del producto, asi como
+los dos botones de agregar a carro o ir a productos
+
+si ya se selecciono un producto, cuando se pase el cursor aparecera un letrero de producto, ya
+añadido al carro.
+
+en la pagina del carro de compras, aparecen los datos del producto, cantindades a modificar,
+si se desea eliminar un producto o todo el carro.
+
+
+NOTAS: 
+Hice lo que pude hasta donde comprendi, se que no es exactamente lo que uds pidieron porque 
+me faltan cosas como el login o conectarse a una bd, pero de verdad les digo en el curso de react
+no enseñan casi nada. Esto es lo que pude llegar a hacer.
